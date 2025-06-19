@@ -1,0 +1,13 @@
+# Ignore VS Code config folder
+.vscode/
+
+# Ignore compiled Java files
+*.class
+
+# Ignore IntelliJ files if used
+.idea/
+*.iml
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
