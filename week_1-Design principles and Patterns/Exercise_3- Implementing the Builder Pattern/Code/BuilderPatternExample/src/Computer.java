@@ -1,9 +1,9 @@
 public class Computer {
 
-    private String CPU;
-    private String RAM;
-    private String storage;
-    private String graphicsCard;
+    private final String CPU;
+    private final String RAM;
+    private final String storage;
+    private final String graphicsCard;
 
 
     @Override
