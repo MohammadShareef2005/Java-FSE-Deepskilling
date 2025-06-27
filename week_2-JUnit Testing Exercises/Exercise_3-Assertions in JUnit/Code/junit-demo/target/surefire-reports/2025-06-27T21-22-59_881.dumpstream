@@ -1,0 +1,5 @@
+# Created at 2025-06-27T21:23:00.973
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Java FSEDeepskilling\Java-FSE-Deepskilling\week_2-JUnit Testing Exercises\Exercise_3-Assertions in JUnit\Code\junit-demo\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
