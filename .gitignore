@@ -12,7 +12,6 @@
 .DS_Store
 Thumbs.db
 
-# Ignore build output folders
-/bin/
-/target/
-/*/target/
+# Ignore build output folders anywhere in the project
+**/target/
+**/bin/
