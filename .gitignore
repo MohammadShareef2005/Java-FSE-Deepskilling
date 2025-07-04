@@ -1,14 +1,18 @@
 # Ignore VS Code config folder
 .vscode/
 
-# Ignore compiled Java files
+# Ignore compiled Java class files
 *.class
 
-# Ignore IntelliJ files if used
+# Ignore IntelliJ project files
 .idea/
 *.iml
 
-# Ignore OS files
+# Ignore OS system files
 .DS_Store
 Thumbs.db
+
+# Ignore build output folders
 /bin/
+/target/
+/*/target/
