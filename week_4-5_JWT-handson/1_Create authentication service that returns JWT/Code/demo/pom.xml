@@ -40,7 +40,7 @@
             <artifactId>spring-boot-starter-security</artifactId>
         </dependency>
 
-        <!-- JWT (Java JWT) -->
+        
         <!-- JWT - updated modular version -->
 <dependency>
     <groupId>io.jsonwebtoken</groupId>
