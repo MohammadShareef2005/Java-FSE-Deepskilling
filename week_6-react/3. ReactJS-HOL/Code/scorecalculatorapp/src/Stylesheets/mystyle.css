@@ -1,0 +1,26 @@
+.heading {
+    color: navy;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.name {
+    color: darkgreen;
+}
+
+.school {
+    color: teal;
+}
+
+.total {
+    color: maroon;
+}
+
+.goal {
+    color: darkorange;
+}
+
+.average {
+    color: purple;
+    font-weight: bold;
+}
