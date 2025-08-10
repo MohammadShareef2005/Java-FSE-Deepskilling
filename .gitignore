@@ -44,3 +44,6 @@ yarn-error.log*
 
 # OS files
 Thumbs.db
+
+*.log
+log/
